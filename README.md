@@ -7,4 +7,4 @@ Have a script saved in the exported folder of your Samsung Health Data.
 
 This script only converts data with GPS information and only running activities. If you want to include other activities adjust code accordingly.
 
-This code is modification of PhilippImhof's FromSamToGarm.
+This code is modification of PhilippImhof's FromSamToGarm (https://github.com/PhilippImhof/FromSamToGarm)
