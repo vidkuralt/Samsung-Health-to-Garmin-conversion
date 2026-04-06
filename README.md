@@ -5,6 +5,6 @@ Run it with Terminal, you will need to have a recent version of Python installed
 
 Have a script saved in the exported folder of your Samsung Health Data.
 
-This script only converts data with GPS information and only running activities. If you want to include other activities adjust code accordingly.
+This script only converts data with GPS information and only running/cycling activities (seperate scripts). If you want to include other activities adjust code accordingly.
 
 This code is modification of PhilippImhof's FromSamToGarm (https://github.com/PhilippImhof/FromSamToGarm)
